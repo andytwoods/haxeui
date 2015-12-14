@@ -8,4 +8,5 @@ class VerticalAlign {
 	static public inline var TOP:String = "top";
 	static public inline var BOTTOM:String = "bottom";
 	static public inline var CENTER:String = "center";
+	static public inline var CENTRE:String = CENTER;
 }
