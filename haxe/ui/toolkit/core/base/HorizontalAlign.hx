@@ -8,4 +8,5 @@ class HorizontalAlign {
 	static public inline var LEFT:String = "left";
 	static public inline var RIGHT:String = "right";
 	static public inline var CENTER:String = "center";
+	static public inline var CENTRE:String = CENTER;
 }
